@@ -9,4 +9,4 @@ AI is a big part of how we operate. It's in our name after all (Ide-ai-8) :) We 
 
 We believe in making small, thoughtful bets on promising ideas. We research, build, and test quickly, to decide whether to scale it up or move on to the next exciting challenge.
 
-We publically share - from how we work, what we’re building to what we’ve learned (the wins and the failures). We think being open helps us grow and hope that it helps others too.
+We publically share - how we work, what we’re building, and what we’ve learnt (the wins and the failures). We think being open helps us grow and hope that it helps others too.
